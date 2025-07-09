@@ -1,0 +1,50 @@
+
+:root{
+  /* Font Size */
+  --big-title: 9rem; /* 00px */
+  --contact-title: 5rem; /* 00px */
+  --mob-title-headline: 4rem; /* 52px */
+  --title: 3.71rem; /* 52px */
+  --title-small: 3rem;  /* 42x */
+  --subtitle: 2.43rem;  /* 34px */
+  --subtitle-small: 1.86rem;  /* 26px */
+  --subtitle-medium: 1.56rem;  /* 22px */
+  --body-megatitle: 1.43rem;  /* 20px */
+  --body-title: 1.29rem;  /* 18px */
+  --mob-body-title: 1.05rem;  /* 16px */
+  --body: 1rem;  /* 14px */
+  --txt: 0.86rem;  /* 12px */
+  --txt-small: 0.71rem;  /* 10px */
+
+  /* Grayscale */
+  --black: #000000;
+  --main-black: #222222;
+  --dim-black: #3C3C3C;
+  --silver-black: #717171;
+  --light-black: #898989;
+  --light-black-gray: #A2A2A2;
+  --light-gray-gray : #DBE1E6;
+  --dark-gray: #BDBDBD;
+  --dim-gray: #DDDDDD;
+  --silver-gray: #EEEEEE;
+  --light-gray: #F5F5F5;
+  --white: #FFFFFF;
+  
+  /* Accent Colors */
+  --blue-main : #2476D4;
+  --point-color: #EE9DC2;
+  --light-pink: #FFC8E1;
+  --sky-blue: #BEE1F0;
+  --light-yellow: #fac721;
+  
+  /* line */
+  --line-black: 2px solid #111111;
+  --line-silver: 1px solid #898989;
+  --line-dotted: 1px dotted #999999;
+  
+  /* padding & margin */
+  --padding20: 0 20px;
+  --margin60: 60px 0;
+  --margin40: 40px 0;
+  --margin20: 20px 0;
+}
