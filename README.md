@@ -1,4 +1,4 @@
-![Desktop - 7]('이미지 링크 넣기')
+![Desktop - 7](https://github.com/Sohee-ux/sohee.web/blob/main/image/header_intro.png?raw=true)
 
 - **`Project` :** 김소희 포트폴리오 
 - **`Project duration` :** 2025.07.02 - 2025.07.09
@@ -25,37 +25,37 @@
 ## 작업 화면 (현재 사이트와 스타일이 다소 다를 수 있습니다.)
 |Main|
 |------|
-|![Main]('이미지 링크 넣기')|
+|![Main](https://github.com/Sohee-ux/sohee.web/blob/main/image/readme01.png?raw=true)|
 |- 소셜 링크 연결(GitHub)<br>- 이력서, 메일 연락하기 등의 퀵메뉴<br>- 저의 좌우명<br>- 간략하게 소개|
 
 |About me|
 |------|
-|![About me]('이미지 링크 넣기')|
+|![About me](https://github.com/Sohee-ux/sohee.web/blob/main/image/readme02.png?raw=true)|
 |- 인터뷰 형식의 간략한 소개글<br>- 이력서 보기 버튼<br>- 경력사항<br>- 교육 및 학력사항<br>- 자격사항|
 
 |Skill & Tools|
 |------|
-|![Skill & Tools]('이미지 링크 넣기')|
+|![Skill & Tools](https://github.com/Sohee-ux/sohee.web/blob/main/image/readme03.png?raw=true)|
 |- 자동 슬라이드 형태로 사용하는 스킬 표시<br>- 각 툴마다 어떠한 형태로 활용하는지의 설명|
 
 |My career (career, project, education)|
 |------|
-|![Project (Web, Editorial)]('이미지 링크 넣기')|
+|![Project (Web, Editorial)](https://github.com/Sohee-ux/sohee.web/blob/main/image/readme04.png?raw=true)|
 |- 탭 메뉴로 카테고리별 확인 가능<br>- 프로젝트 명별로 한눈에 확인가능, 주요 코드리뷰<br>- 자격사항, 경력사항 자세히 다시보기|
 
 |Project (Web, Editorial)|
 |------|
-|![Project (Web, Editorial)]('이미지 링크 넣기')|
+|![Project (Web, Editorial)](https://github.com/Sohee-ux/sohee.web/blob/main/image/readme05.png?raw=true)|
 |- 탭 메뉴로 카테고리별 확인 가능<br>- 프로젝트 명별로 쉽게 확인가능한 목록 파트<br>- DEMO사이트 접속, README 가기, 기획서 다운로드 버튼 활성화|
 
 |Work Work Work : Project replay|
 |------|
-|![Work Work Work : Project replay]('이미지 링크 넣기')|
+|![Work Work Work : Project replay](https://github.com/Sohee-ux/sohee.web/blob/main/image/readme06.png?raw=true)|
 |- 프로젝트 다시보기<br>- 마우스 오버시 썸네일 이미지 확인가능|
 
 |Contact|
 |------|
-|![Contact]('이미지 링크 넣기')|
+|![Contact](https://github.com/Sohee-ux/sohee.web/blob/main/image/readme07.png?raw=true)|
 |- 끝 맺음말<br>- 소셜 링크 제공<br>- 연락하기 버튼 활성화|
 
 
