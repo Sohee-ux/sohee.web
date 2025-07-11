@@ -279,7 +279,15 @@
     width: 95%;
     height: auto;
   }
+  #project .project_wrap .tab {
+    width: 50%;
+    font-size: var(--body-megatitle);
+  }
+  #project .project_wrap .filters {
+    gap: 0;
+  }
 
+  
   /* work */
   #work .work_wrap .work_txt h5{
     font-size: var(--body-megatitle);
