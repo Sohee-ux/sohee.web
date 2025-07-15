@@ -164,7 +164,7 @@
     margin-bottom: 10px;
   }
   #mob_career .main_cardinner p{
-    font-size: var(--body-title); 
+    font-size: var(--body); 
     margin-bottom: 10px;
     line-height: 1.7;
   }
@@ -239,6 +239,9 @@
   #project .inner{padding: 0vw 8vw !important;}
   #project .project_wrap .project{
     width: 100%
+  }
+  #project .tabs .tab{
+  margin: 0;
   }
   #project .tab-content.active{
     gap: 40px;
