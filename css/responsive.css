@@ -1,7 +1,6 @@
 /* 모바일 (최소 450px ~ 767px), 태블릿 (768px ~ 1023px) */
 @media (max-width: 1023px) {
   .inner{
-    width: 100% !important;
     height: 100%;
     height: -webkit-max-content;
     height: -moz-max-content;
@@ -32,9 +31,9 @@
   #intro .intro_wrap{width: 90%;}
   
   /* about */
-  #about .about_wrap .about_img{
-    width: 70%; 
-    transform: translateX(5%);
+  #about .about_wrap .about_img img{
+    width: 50%; 
+    transform: translateX(50%);
   }
   #about .about_wrap .about_box{
     display: block; 
@@ -170,12 +169,6 @@
     color: var(--blue-main); 
     font-size: var(--body-title);
   }
-  #mob_career .icon_wrap{
-    position: absolute; 
-    bottom: 5%;
-    top: 5%;
-    right: 1%;
-  }
   #mob_career .career_tab_career01 .icon_wrap img{
     width: 25px; 
     height: auto; 
@@ -249,7 +242,7 @@
     flex-direction: column;
   }
   #project .project_wrap .buttons a button{
-    width: 100%;
+    width: 85%;
   }
   #project .project_wrap .project h3{
     font-size: var(--body-title);
@@ -281,10 +274,14 @@
   }
   #project .project_wrap .tab {
     width: 50%;
-    font-size: var(--body-megatitle);
+    font-size: var(--body);
+    padding: 10px 100px;
   }
   #project .project_wrap .filters {
-    gap: 0;
+    gap: 25px;
+  }
+  #project .project_wrap .filters label{
+    font-size: var(--body);
   }
 
   
