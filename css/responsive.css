@@ -337,11 +337,10 @@
 
   /* footer */
   #footer .footer_inner p{
-      text-align: center;
-      left: 50%;
-      transform: translateX(-50%);
-      top: 100%;
-      margin-bottom: 30px;
+      width: 70%;
+      height: 90px;
+      line-height: 2;
+      font-size: var(--txt-small);
   }
 }
 
@@ -362,7 +361,7 @@
     line-height: 3.7;
     position: absolute;
     right: 30%;
-    top: 7.4%;
+    top: 6.6%;
     text-align: right;
     position: fixed;
   }
@@ -380,6 +379,7 @@
       top: 5rem;
       gap: 1.5rem;
       color: var(--dark-gray);
+      display: none;
   }
 
   /* about */
@@ -400,7 +400,4 @@
   #contact .contact_wrap .contact_headline_wrap h2{font-size: var(--body-title);}
   #contact .contact_wrap .contact_headline_wrap{transform: translateX(15%);}
   #contact .contact_wrap .btn_wrap{position: absolute; left: 12%;}
-
-  /* footer */
-  #footer p{font-size: var(--txt);}
 }
